@@ -1,3 +1,11 @@
-# realTime-Tables-with-Django-Channels
+# RealTime Tables with Django Channels Websockets
 
-https://github.com/ServiceStack/redis-windows
+## Instructions
+
+Run 
+
+```jupyter notebook --allow-root```
+
+Run 
+
+```python manage.py runserver```
